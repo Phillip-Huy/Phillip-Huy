@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Phillip-Huy
+- 👀 I’m interested in programming Discord bots & also finding new things to be interested in.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Discord, contact me @ phillip#4929
+- 📫 How to reach me p.huy@currently.com
